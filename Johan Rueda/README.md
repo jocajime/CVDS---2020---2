@@ -2,7 +2,7 @@
 
 ## Mi vida
 
-Soy estudiante de ingenieria de sistemas de la [ECI] (https://www.escuelaing.edu.co)
+Soy estudiante de ingenieria de sistemas de la [ECI](https://www.escuelaing.edu.co)
 
 ![Imagen](https://github.com/jocajime/CVDS---2020---2/blob/master/Johan%20Rueda/logo.jpg)
 
