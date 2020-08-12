@@ -14,8 +14,7 @@ en el colegio como:
 Mi primer codigo lo hice a mis 15 años en el colegio, donde fue un juego en el programa **Construct**, pero como todo desarrollador
 no nos podemos olvidar del famoso `Print ("Hello word")` en python 
 
-! [Imagen] (Johan Rueda/ciclos 0.PNG)
-
+![Imagen](Johan Rueda/ciclos 0.png)
 
 ## Mi Carrera
 
