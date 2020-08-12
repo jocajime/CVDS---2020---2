@@ -14,7 +14,7 @@ en el colegio como:
 4. Natación
 
 Mi primer codigo lo hice a mis 15 años en el colegio, donde fue un juego en el programa **Construct**, pero como todo desarrollador
-no nos podemos olvidar del famoso `Print ("Hello word")` en python.
+no nos podemos olvidar del famoso `Print ("Hello word")` .
 
 
 ## Mi Carrera
@@ -46,3 +46,11 @@ https://www.escuelaing.edu.co/escuela/planesEstudio/sistemas.html
 
 
 ![Imagen](https://github.com/jocajime/CVDS---2020---2/blob/master/Johan%20Rueda/ciclos%200.PNG)
+
+
+https://learngitbranching.js.org/
+
+
+![Imagen](https://github.com/jocajime/CVDS---2020---2/blob/master/Johan%20Rueda/ciclos%201.PNG)
+
+![Imagen](https://github.com/jocajime/CVDS---2020---2/blob/master/Johan%20Rueda/ciclos%202.PNG)
