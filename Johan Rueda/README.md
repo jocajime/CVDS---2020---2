@@ -14,7 +14,7 @@ en el colegio como:
 Mi primer codigo lo hice a mis 15 años en el colegio, donde fue un juego en el programa **Construct**, pero como todo desarrollador
 no nos podemos olvidar del famoso `Print ("Hello word")` en python.
 
-![Imagen](https://www.google.com/search?q=logo+de+la+eci&sxsrf=ALeKk02DOsylxvExboLdw2ihU-lWKlYgSw:1597269138724&tbm=isch&source=iu&ictx=1&fir=wppaDElCwmAStM%252CNaMKgf0_gb1CoM%252C_&vet=1&usg=AI4_-kQlkvK-Wi2LzNjMIJnqt5yMTWuZsQ&sa=X&ved=2ahUKEwjn5P6c05brAhXFc98KHRJjAzsQ9QEwAHoECAoQFg&biw=683&bih=624#imgrc=wppaDElCwmAStM)
+![Imagen](https://github.com/jocajime/CVDS---2020---2/blob/master/Johan%20Rueda/logo.jpg)
 
 
 ## Mi Carrera
