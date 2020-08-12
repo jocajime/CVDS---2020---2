@@ -4,6 +4,8 @@
 
 Soy estudiante de ingenieria de sistemas de la **ECI**
 
+![Imagen](https://github.com/jocajime/CVDS---2020---2/blob/master/Johan%20Rueda/logo.jpg)
+
 Me gusta la **Tecnologia** tengo 20 años, crecí en Girardot, cundinamarca y de pequeño practicaba varios deportes
 en el colegio como:
 1. Futbol
@@ -12,9 +14,8 @@ en el colegio como:
 4. Natación
 
 Mi primer codigo lo hice a mis 15 años en el colegio, donde fue un juego en el programa **Construct**, pero como todo desarrollador
-no nos podemos olvidar del famoso `Print ("Hello word")` en python 
+no nos podemos olvidar del famoso `Print ("Hello word")` .
 
-![Imagen](Johan Rueda/ciclos 0.png)
 
 ## Mi Carrera
 
@@ -42,3 +43,14 @@ Líneas de énfasis del Programa:
 
 https://www.escuelaing.edu.co/escuela/planesEstudio/sistemas.html
 
+
+
+![Imagen](https://github.com/jocajime/CVDS---2020---2/blob/master/Johan%20Rueda/ciclos%200.PNG)
+
+
+https://learngitbranching.js.org/
+
+
+![Imagen](https://github.com/jocajime/CVDS---2020---2/blob/master/Johan%20Rueda/ciclos%201.PNG)
+
+![Imagen](https://github.com/jocajime/CVDS---2020---2/blob/master/Johan%20Rueda/ciclos%202.PNG)
