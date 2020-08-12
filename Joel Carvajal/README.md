@@ -27,3 +27,5 @@ mi nombre completo es **Joel Arturo Carvajal Jimenez**, naci el *24 de noviembre
             return Fibonacci(n-1)+Fibonacci(n-2) 
     ~~~
 * logre curso de git:
+![Img](Joel Carvajal/images/main.PNG)
+![Img](Joel Carvajal/images/remote.PNG)
